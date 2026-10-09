@@ -139,25 +139,6 @@ The project demonstrates Java object-oriented programming concepts, including:
 - Employee profile management
 - Goal progress updates and notifications
 - Automated testing
-- ## Application Screenshots
-
-### 1. Login Page
-![Login Page](screenshots/Screenshot%202026-10-09%20084531.png)
-
-### 2. Manager Dashboard
-![Manager Dashboard](screenshots/Screenshot 2026-10-09 084629.png)
-
-### 3. Performance Evaluation
-![Performance Evaluation](screenshots/Screenshot 2026-10-09 084704.png)
-
-### 4. Reports and Analytics
-![Reports and Analytics](screenshots/Screenshot 2026-10-09 084740.png)
-
-### 5. Employee Dashboard
-![Employee Dashboard](screenshots/Screenshot 2026-10-09 084820.png)
-
-### 6. Personal Goals
-![Personal Goals](screenshots/Screenshot 2026-10-09 084834.png)
 
 ## License
 
